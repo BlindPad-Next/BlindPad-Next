@@ -1,0 +1,3 @@
+Il compito di questo esercizio èè completare una figura geometrica utilizzando Bla ind Pad.
+In alto verrà rappresentato un tratto geometrico. In basso una figura da completare.
+Muovi il tratto in alto fino a farlo combaciare con quello in basso utilizzando lo schermo del cellulare.

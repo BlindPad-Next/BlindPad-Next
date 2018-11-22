@@ -1,0 +1,98 @@
+{
+  "connect_PD":true,
+  "connect_APP":true,
+  "play_audio":false,
+  "play_music":false,
+  "pd_port":12345,
+  "app_address":"10.245.71.72",
+  "app_port":4001,
+  "MAX_ROWS":12,
+  "MAX_COLS":16,
+  "MAX_COLS_GAME_AREA":10,
+  "title_positions": [
+                        [2,0],[4,0],[6,0],[8,0],[10,0],[12,0],
+                        [1,4],[4,4],[7,4],[10,4],[13,4],
+                        [1,8],[4,8],[7,8],[10,8],[13,8]
+                     ],
+  "title_string":"TETRISPRESSSPACE",
+
+  "target_positions":[6,6],
+  "tracts_positions":[1,1],
+  "level_positions":[1,12],
+  "score_positions":[
+                      [7,12],
+                      [7,14]
+                    ],
+
+  "start_game_area":[0,0],
+  "start_score_area":[12,0],
+
+  "levels_of_difficulty":[30,25,20,15,10],
+  "code_delimiter":"line(10,0,10,11,1);",
+
+  "ntrials":20,
+  "audio_files":{ "muovi":"muovi.ogg",
+                  "muovi_destra":"destra.ogg",
+                  "muovi_sinistra":"sinistra.ogg",
+                  "ruota":"ruota.ogg",
+                  "bordo":"bordo.ogg",
+                  "tetris_BGM":"tetris_BGM.ogg",
+                  "posizionata":"posizionata.ogg",
+                  "linea_completa":"linea_completa.ogg",
+                  "game_over":"game_over.ogg"
+                },
+
+  "audio_files_en":{ "muovi":"muovi_en.ogg",
+                     "muovi_destra":"destra_en.ogg",
+                     "muovi_sinistra":"sinistra_en.ogg",
+                     "ruota":"ruota_en.ogg",
+                     "bordo":"bordo_en.ogg",
+                     "tetris_BGM":"tetris_BGM.ogg",
+                     "posizionata":"posizionata_en.ogg",
+                     "linea_completa":"linea_completa.ogg",
+                     "game_over":"game_over.ogg"
+                  },
+
+  "audio_channels":{"muovi_destra":1,
+                    "muovi_sinistra":2,
+                    "ruota":3,
+                    "bordo":4,
+                    "muovi":5,
+                    "posizionata":6,
+                    "linea_completa":7
+                   },
+
+  "total_figure_code": "line(8,6,9,6,1);line(0,7,2,7,1);line(6,7,9,7,1);line(0,8,2,8,1);line(6,8,9,8,1);line(0,9,3,9,1);line(6,9,8,9,1);line(0,10,4,10,1);line(6,10,9,10,1);line(1,11,8,11,1);line(10,0,10,11,1);line(12,2,14,2, 1,*next);line(14,1,14,1, 1,*next);line(13,7,13,7, 1,*score0);line(12,9,14,9, 1,*score0);line(15,7,15,7, 1,*score1);line(14,9,16,9, 1,*score1);",
+  "next_figure_code": "line(12,2,14,2, 1,*next);line(14,1,14,1, 1,*next);",
+  "game_area_code": "line(8,6,9,6,1);line(0,7,2,7,1);line(6,7,9,7,1);line(0,8,2,8,1);line(6,8,9,8,1);line(0,9,3,9,1);line(6,9,8,9,1);line(0,10,4,10,1);line(6,10,9,10,1);line(1,11,8,11,1);",
+  "code_score":"line(13,7,13,7, 1,*score0);line(12,9,14,9, 1,*score0);line(15,7,15,7, 1,*score1);line(14,9,15,9, 1,*score1);",
+  "game_area": [
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 1, 1],
+       [0, 0, 0, 0, 0, 0, 0, 0, 1, 1],
+       [1, 1, 1, 0, 0, 0, 1, 1, 1, 1],
+       [1, 1, 1, 1, 0, 1, 1, 1, 1, 1],
+       [0, 0, 1, 1, 1, 1, 1, 1, 1, 0],
+       [0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+               ],
+
+  "score_area": [
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 1, 0, 1],
+       [0, 0, 0, 0],
+       [1, 1, 1, 1],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0]
+                ]
+  }
