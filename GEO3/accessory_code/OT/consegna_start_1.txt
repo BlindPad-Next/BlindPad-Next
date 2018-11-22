@@ -1,0 +1,7 @@
+Il compito di questo esercizio è completare una figura geometrica utilizzando Bla ind Pad.
+In alto verranno rappresentati tre tratti geometrici. In basso la figura da completare.
+Esplora i tre tratti in alto e scegli quello secondo te piu adatto a completare la figura in basso.
+Per scorrere tra i tratti e selezionare quello giusto, usa i tasti B ed E. Premendo il tasto B scorrerai verso sinistra, premendo E, verso destra.
+La figura selezionata rimarrà rappresentata, mentre le altre spariranno.
+Quando sei sicuro della tua scelta, premi il tasto F.
+Premi il tasto A per tornare indietro ad esplorare nuovamente tutti i tratti.

@@ -1,0 +1,12 @@
+# the experiment has 2 states
+# 0: START STATE : the 4 figures are displayed.
+#       process: left/right => #1
+# 1: SELECTING STATE : the selected figure in the bottom row blinks
+#       process: left/right => change selected
+#                select     => #2
+# 2: MOVING STATE : the two non selected figures disappear. user can now move the master figure
+#       process: left/right/top/down => move master figure
+#                confirm    => #0 new trial
+#                undo       => #0 present trial
+# 3: CONFIRM STATE : generic state where user can only confirm or cancel a question
+#

@@ -1,0 +1,5 @@
+Ora puoi muovere il tratto selezionato in alto verso la figura incompleta in basso.
+usa i pulsanti B ed E per spostare il tratto a sinistra e destra. i pulsanti D e G per andare in alto e basso.
+Per ruotare il tratto, premi il pulsante C.
+quando pensi di aver correttamente allineato il tratto con la figura incompleta premi il tasto F.
+Per tornare a selezionare il tratto da muovere premi il testo A.

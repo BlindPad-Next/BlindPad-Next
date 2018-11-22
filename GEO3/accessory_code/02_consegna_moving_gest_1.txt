@@ -1,0 +1,5 @@
+Ora puoi muovere il tratto in alto verso la figura incompleta in basso. Usa lo schermo del cellulare per farlo
+Scorri le dita nella direzione in cui far muovere il tratto geometrico.
+Fai un tocco singolo per ruotare il tratto.
+Quando pensi di aver correttamente allineato il tratto con la figura incompleta fai un doppio tocco.
+Per tornare a muovere il tratto, fai un tocco lungo
