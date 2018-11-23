@@ -1,0 +1,11 @@
+{
+  "N_TRIALS": 3,
+  "N_TARGETS": 3,
+  "connect_PD":true,
+  "connect_APP":true,
+  "pd_port":12345,
+  "app_address":"10.245.71.72",
+  "app_port":4001,
+  "MAX_ROWS":12,
+  "MAX_COLS":16
+}

@@ -1,0 +1,55 @@
+{
+  "connect_PD":true,
+  "connect_APP":true,
+  "pd_port":12345,
+  "app_address":"10.245.71.72",
+  "app_port":4001,
+  "MAX_ROWS":12,
+  "MAX_COLS":16,
+  "target_positions":[6,6],
+  "tracts_positions":[
+                            [
+                              [0,0], [2,0], [4,0], [6,0], [8,0],[10,0],[12,0],
+                              [0,3], [2,3], [4,3], [6,3], [8,3],[10,3],[12,3],
+                              [0,6], [2,6], [4,6], [6,6], [8,6],[10,6],[12,6],
+                              [0,9], [2,9], [4,9], [6,9], [8,9],[10,9],[12,9]
+                            ],
+                            [
+                              [11,1], [11,4], [11,7], [11,10],
+                              [6,1], [6,4], [6,7], [6,10],
+                              [1,1],[1,4],[1,7],[1,10]
+                            ]
+                     ],
+  "ntrials":20,
+  "audio_files":{ "start_but":"01_start_but.mp3",
+                  "start_gest":"01_start_gest.mp3",
+                  "consegna_moving_but_0":"02_consegna_moving_but_0.mp3",
+                  "consegna_moving_but_1":"02_consegna_moving_but_1.mp3",
+                  "consegna_moving_gest_0":"02_consegna_moving_gest_0.mp3",
+                  "consegna_moving_gest_1":"02_consegna_moving_gest_1.mp3",
+                  "consegna_conferma_scelta_but":"03_consegna_conferma_scelta_but.mp3",
+                  "consegna_conferma_scelta_gest":"03_consegna_conferma_scelta_gest.mp3",
+                  "conferma_scelta_but":"03_conferma_scelta_but.mp3",
+                  "conferma_scelta_gest":"03_conferma_scelta_gest.mp3",
+                  "muovi":"muovi.mp3",
+                  "muovi_alto":"alto.mp3",
+                  "muovi_basso":"basso.mp3",
+                  "muovi_destra":"destra.mp3",
+                  "muovi_sinistra":"sinistra.mp3",
+                  "ruota":"ruota.mp3",
+                  "ricomincia":"ricomincia.mp3",
+                  "muovi_figura":"muovi_figura.mp3",
+                  "contatto_figura":"contatto_figura.mp3",
+                  "bordo":"bordo.mp3",
+                  "figura0":"fig0.mp3",
+                  "figura1":"fig1.mp3",
+                  "figura2":"fig2.mp3",
+                  "scelta_0":"scelta_0.mp3",
+                  "scelta_1":"scelta_1.mp3",
+                  "scelta_2":"scelta_2.mp3",
+                  "fine_trial":"fine_trial.mp3",
+
+                  "esperimento_finito":"esperimento_finito.mp3",
+                  "tone_finish": "tone_finish.ogg",
+                  "tone_start": "tone_start.ogg"}
+}

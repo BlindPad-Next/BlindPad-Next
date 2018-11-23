@@ -1,3 +1,0 @@
-Adesso ti farò ascoltare una sequenza di numeri. 
-Il tuo compito sarà quello di riordinare la sequenza dicendo il valore dal più alto 
-al più basso.

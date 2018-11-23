@@ -1,0 +1,25 @@
+Adesso ti mostrerò un’immagine. 
+
+In quest’immagine è mostrata una sequenza di colonne con diversa altezza.
+
+Il tuo compito sarà quello di riordinare la sequenza cancellando le colonne dalla più alta alla più bassa.
+
+Per selezionare una colonna, scorri il dito verso destra.
+
+Una volta fatto questo il tassello più in basso della prima colonna più a sinistra scomparirà.
+
+Quando il primo tassello di una colonna scompare, vuol dire che quella colonna è stata selezionata.
+
+Scorri il dito verso destra per muoverti verso destra finché non ti sarai posizionato sulla colonna più alta.
+
+Per cancellare la colonna scelta tocca due volte lo schermo.
+
+La colonna selezionata verrà così eliminata.
+
+Per annullare la tua scelta tieni premuto il dito sullo schermo.
+
+In questo modo l’ultima colonna eliminata riapparirà.
+
+Potrai annullare anche le scelte precedenti sempre tenendo premuto il dito sullo schermo.
+
+Riordina la sequenza nel minor tempo possibile.

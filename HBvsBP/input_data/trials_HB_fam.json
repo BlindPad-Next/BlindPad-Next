@@ -1,8 +1,0 @@
-{
-  "trials": [
-    {"target_figure": "T1","tracts": ["L1","U1","T1","O1","L2","T2"]},
-    {"target_figure": "L1","tracts": ["U2","L1","O2","T3","L3","U3"]},
-    {"target_figure": "U1","tracts": ["O3","T4","L4","U1","O4","U4"]},
-    {"target_figure": "O1","tracts": ["U1","L2","T4","O1","T3","O2"]}
-  ]
-}
