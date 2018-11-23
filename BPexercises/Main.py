@@ -8,7 +8,7 @@ try:
     dname = os.path.dirname(abspath)
 
     # EXPERIMENT PARAMETERS
-    with open(os.path.join("BPexercises\paths.json")) as json_file:
+    with open(os.path.join("paths.json")) as json_file:
         file = json.load(json_file)
         demos = file["demos"]
         paths = file["paths"]
