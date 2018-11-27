@@ -29,3 +29,5 @@ The packages necessary in order to run this project are:
 A guide to install package for the interpreter can be found here:
 
 https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html
+
+In order to run the demos and exercises it is necessary to open Paddraw and click on Start in the Dock Widget panel to open the communication with the python script. After that go in the folder BPexercises and run the Main.py script.
