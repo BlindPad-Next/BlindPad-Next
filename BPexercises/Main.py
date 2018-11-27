@@ -1,6 +1,13 @@
+"""
+@Main
+@author Angelo Raspagliesi, Alberto Inuggi, Luca Brayda
+@copyright Istituto Italiano di Tecnologia (IIT) 2018
+"""
+
+
+
 import os
 import json
-
 
 
 try:
